@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/kooshesh/2022spring/cs315/BinomialQueues
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kooshesh/2022spring/cs315/BinomialQueues/cmake-build-debug
